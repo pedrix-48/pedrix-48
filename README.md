@@ -60,6 +60,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pedrix-48/pedrix-48/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pedrix-48/count.svg?"  />
+</div>
 
 ###
