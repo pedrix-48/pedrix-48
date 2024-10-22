@@ -59,3 +59,7 @@
 <p align="left">if it works, dont touch it</p>
 
 ###
+
+<img src="https://raw.githubusercontent.com/pedrix-48/pedrix-48/output/snake.svg" alt="Snake animation" />
+
+###
