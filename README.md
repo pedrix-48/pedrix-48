@@ -1,89 +1,117 @@
-# Jessua Pedro Miguel (Pedrix)
+<!-- Animated header -->
+<div align="center">
 
-**Full-Stack Developer · IT Professional**
-Universidade Nacional Timor Lorosa'e (UNTL) · Faculdade de Engenharia (FECT) · Timor-Leste 🇹🇱
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Jessua%20Pedro%20Miguel&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Pedrix&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
----
+<a href="https://github.com/pedrix-48">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Django+%7C+Web+Systems+%7C+UI%2FUX+Prototyping;IT+Support+%26+Networking;Based+in+Timor-Leste+%F0%9F%87%B9%F0%9F%87%B1" alt="Typing animation"/>
+</a>
 
-## Professional Profile
+<br/>
 
-Full-stack developer with strong expertise in building responsive, user-friendly web applications using HTML, CSS, Bootstrap, and the Django framework. I am committed to delivering seamless experiences across all devices, with performance, scalability, and accessibility as constant priorities.
+![UNTL](https://img.shields.io/badge/UNTL-FECT-7c3aed?style=for-the-badge)
+![Informatic Engineering](https://img.shields.io/badge/Informatic_Engineering-0f172a?style=for-the-badge)
+![ICT Competition](https://img.shields.io/badge/ICT_Competition-2nd_Place_2025-f59e0b?style=for-the-badge)
 
-My work combines thoughtful UI/UX design, clean front-end implementation, and efficient back-end architecture, complemented by hands-on experience in IT support, networking, and training.
-
----
-
-## Core Skills
-
-| Area | Skills |
-|------|--------|
-| **Web Development** | HTML5 · CSS3 · Bootstrap 5 · Django · MySQL · JavaScript (basic) |
-| **UI/UX Prototyping** | Figma (interactive wireframes, high-fidelity designs) |
-| **Programming** | Java (intermediate) |
-| **Systems & Infrastructure** | Linux and Windows installation, configuration, and management · Technical troubleshooting and research · Network equipment testing (switches and routers) |
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+</div>
 
 ---
 
-## Professional Experience
+## 👤 About
 
-### Web Developer & UI/UX Prototyper
-I develop and maintain websites for a range of clients, from initial concept through to delivery. Using Figma, I turn ideas into interactive wireframes and high-fidelity designs that visualize concepts, validate features, and streamline the development workflow before implementation begins.
-
-**Selected projects**
-- **Dormitory Management System, FECT-UNTL (SIG RUFECT):** an information management system for the dormitory at the Faculty of Engineering.
-- **Student Registration System:** a registration platform for the Student Association of FECT.
-
-### Intern: Faculdade de Engenharia (FECT), UNTL · 2025
-Entrusted with testing and evaluating network equipment, including switches and routers, to determine operational status and confirm proper functionality. The role strengthened my understanding of networking fundamentals, hardware troubleshooting, and infrastructure reliability, and further developed my analytical and research abilities.
-
-### Internship Assistant: Suai, Covalima · July 2025
-Supported daily operations during a one-month internship, gaining practical experience in a professional working environment.
+- 🎓 Informatic Engineering, **Universidade Nacional Timor Lorosa'e (UNTL)**
+- 💻 Full-stack developer: HTML, CSS, Bootstrap, Django
+- 🎨 UI/UX prototyping with Figma
+- 🖥️ Linux and Windows setup, configuration, and troubleshooting
+- 🌐 Network equipment testing (switches and routers)
+- 📱 Responsive, scalable, accessible web apps
 
 ---
 
-## Training & Mentoring
+## 🛠️ Tech Stack
 
-- **Microsoft Office Trainer, Comando Policia Municipio Covalima:** delivered a one-month training program focused on digital literacy, document management, and overall productivity skills.
-- **HTML & CSS Trainer, Departamento Engenharia Informatica, FECT-UNTL:** mentored new students in foundational web development, helping them build a strong base in front-end development.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,mysql,java,cs,figma,linux,windows,git,github&perline=7" alt="Tech stack"/>
 
-## Achievements
+</div>
 
-🏆 **Second Place, University-Level ICT Competition · 2025**
-Represented UNTL at the competition organized by TIC Timor for its 8th Anniversary, competing against teams from multiple universities.
-
----
-
-## Leadership & Event Organization
-
-Active member of the **Student Association of FECT**, contributing to the organization of several key events:
-
-- Visit of the JICA delegation to FECT Hera · August 2024
-- Seminar with the Ministry of Obras Públicas · 2 August 2024
-- TAJST seminar at FECT Hera · 2025
-
-These experiences developed my organizational, coordination, and communication skills while supporting large-scale academic and professional events.
+- **Frontend:** HTML5 · CSS3 · Bootstrap 5 · JavaScript (basic)
+- **Backend:** Django · Python · MySQL
+- **Languages:** Java (intermediate) · C#
+- **Design:** Figma
+- **Systems:** Linux · Windows
 
 ---
 
-## Summary
+## 💼 Experience
 
-This portfolio brings together web development, UI/UX prototyping, IT systems, and networking experience. With a commitment to quality, attention to detail, and a passion for blending creativity with technical solutions, I am confident in my ability to contribute effectively to any team, and I am eager to take on new challenges and deliver exceptional results.
+**🔹 Web Developer & UI/UX Prototyper**
+- Build and maintain websites for clients
+- Turn ideas into Figma wireframes and high-fidelity designs
+
+**🔹 Intern, FECT-UNTL (2025)**
+- Tested switches and routers
+- Verified operational status and functionality
+
+**🔹 Internship Assistant, Suai, Covalima (July 2025)**
+- Supported daily operations
+
+**🔹 Trainer**
+- Microsoft Office: Comando Policia Municipio Covalima (1 month)
+- HTML & CSS: new students, Informatic Engineering Dept., FECT-UNTL
 
 ---
 
-## Contact
+## 🚀 Projects
 
-[GitHub](https://github.com/pedrix-48) · Email: *add your email here*
+<div align="center">
+
+[![RUFECT](https://github-readme-stats.vercel.app/api/pin/?username=pedrix-48&repo=rufect&theme=radical&hide_border=true)](https://github.com/pedrix-48/rufect)
+
+</div>
+
+- **Dormitory Management System, FECT-UNTL (SIG RUFECT)**
+- **Student Registration System, Student Association of FECT**
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Place**, University-Level ICT Competition by TIC Timor (8th Anniversary, 2025), representing UNTL
+
+---
+
+## 🤝 Leadership
+
+**Student Association of FECT, active member**
+- JICA delegation visit to FECT Hera (Aug 2024)
+- Seminar with the Ministry of Obras Públicas (2 Aug 2024)
+- TAJST seminar at FECT Hera (2025)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrix-48&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrix-48&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrix-48&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity graph"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/pedrix-48"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://youtube.com/@pedrix48"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
