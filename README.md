@@ -1,60 +1,103 @@
 # Jessua Pedro Miguel (Pedrix)
 
-**Full Stack Developer & Project Manager** · Timor-Leste 🇹🇱
-
-I build web systems and data-driven tools, mostly with Python and Django. I care about clean code, maintainable architecture, and solutions that scale.
-
----
-
-## Currently
-
-- Building the **RUFECT Information Management System**
-- Developing a **Dormitory Management System** at UNTL
-- Studying advanced Django architecture and data science
-
-## Focus areas
-
-Web development · Data analysis · Game development
+**Full-Stack Developer · Graphic Designer**
+Universidade Nacional Timor Lorosa'e (UNTL) · Faculdade de Engenharia (FECT) · Timor-Leste 🇹🇱
 
 ---
 
-## Tech Stack
+## Professional Profile
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Full-stack developer with strong expertise in building responsive, user-friendly web applications using HTML, CSS, Bootstrap, and the Django framework. I am committed to delivering seamless experiences across all devices, with performance, scalability, and accessibility as constant priorities.
 
-**Web**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+My work combines thoughtful UI/UX design, clean front-end implementation, and efficient back-end architecture, complemented by a solid foundation in graphic design and hands-on experience in IT support, networking, and training.
+
+---
+
+## Core Skills
+
+| Area | Skills |
+|------|--------|
+| **Web Development** | HTML5 · CSS3 · Bootstrap 5 · Django · MySQL · JavaScript (basic) |
+| **Design & Prototyping** | Figma (wireframes, high-fidelity designs) · Canva (banners, posters, certificates, promotional graphics) |
+| **Programming** | Java (intermediate) |
+| **Systems & Infrastructure** | Linux and Windows installation, configuration, and management · Technical troubleshooting and research · Network equipment testing (switches and routers) |
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Data & Tools**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
-## Featured Project
+## Professional Experience
 
-[![RUFECT](https://github-readme-stats.vercel.app/api/pin/?username=pedrix-48&repo=rufect&theme=default&hide_border=true)](https://github.com/pedrix-48/rufect)
+### Web Developer & UI/UX Prototyper
+I develop and maintain websites for a range of clients, from initial concept through to delivery. Using Figma, I turn ideas into interactive wireframes and high-fidelity designs that visualize concepts, validate features, and streamline the development workflow before implementation begins.
 
-## GitHub Stats
+**Selected projects**
+- **Dormitory Management System, FECT-UNTL (SIG RUFECT):** an information management system for the dormitory at the Faculty of Engineering.
+- **Student Registration System:** a registration platform for the Student Association of FECT.
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedrix-48&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrix-48&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
+### Intern: Faculdade de Engenharia (FECT), UNTL · 2025
+Entrusted with testing and evaluating network equipment, including switches and routers, to determine operational status and confirm proper functionality. The role strengthened my understanding of networking fundamentals, hardware troubleshooting, and infrastructure reliability, and further developed my analytical and research abilities.
+
+### Internship Assistant: Suai, Covalima · July 2025
+Supported daily operations during a one-month internship, gaining practical experience in a professional working environment.
+
+---
+
+## Training & Mentoring
+
+- **Microsoft Office Trainer, Comando Policia Municipio Covalima:** delivered a one-month training program focused on digital literacy, document management, and overall productivity skills.
+- **HTML & CSS Trainer, Departamento Engenharia Informatica, FECT-UNTL:** mentored new students in foundational web development, helping them build a strong base in front-end development.
+
+---
+
+## Achievements
+
+🏆 **Second Place, University-Level ICT Competition · 2025**
+Represented UNTL at the competition organized by TIC Timor for its 8th Anniversary, competing against teams from multiple universities.
+
+---
+
+## Leadership & Event Organization
+
+Active member of the **Student Association of FECT**, contributing to the organization of several key events:
+
+- Visit of the JICA delegation to FECT Hera · August 2024
+- Seminar with the Ministry of Obras Públicas · 2 August 2024
+- TAJST seminar at FECT Hera · 2025
+
+These experiences developed my organizational, coordination, and communication skills while supporting large-scale academic and professional events.
+
+---
+
+## Graphic Design
+
+I have a strong foundation in graphic design principles and a passion for creating visually compelling materials. Using tools such as Canva, I produce banners, posters, certificates, and promotional graphics efficiently. My focus is on impactful designs that align with client objectives and resonate with their target audiences, combining creativity with clear communication.
+
+| Project | Event | Year |
+|---------|-------|------|
+| Celebration Banner | Amizade Celebration Party, Department of Informatic Engineering | 2024 and 2025 |
+| Certificate Design | National Seminar on Digitalization, FECT-UNTL | 2024 |
+| Certificate Design | TAJST Seminar | 2025 |
+| ID Card Design | UNTL-FECT Academic Orientation | 2025 |
+
+---
+
+## Summary
+
+This portfolio brings together graphic design, web development, and broader professional experience. With a commitment to quality, attention to detail, and a passion for blending creativity with technical solutions, I am confident in my ability to contribute effectively to any team, and I am eager to take on new challenges and deliver exceptional results.
 
 ---
 
 ## Contact
 
-[YouTube](https://youtube.com/@pedrix48) · [Facebook](https://facebook.com/pedrix48) · [Twitter](https://twitter.com/pedrix48) · [Instagram](https://instagram.com/pedrix48) · [Email](mailto:your.email@example.com)
-
-> *If it works, don't touch it.*
+[GitHub](https://github.com/pedrix-48) · Email: *add your email here*
