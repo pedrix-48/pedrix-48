@@ -1,6 +1,6 @@
 # Jessua Pedro Miguel (Pedrix)
 
-**Full-Stack Developer · Graphic Designer**
+**Full-Stack Developer · IT Professional**
 Universidade Nacional Timor Lorosa'e (UNTL) · Faculdade de Engenharia (FECT) · Timor-Leste 🇹🇱
 
 ---
@@ -9,7 +9,7 @@ Universidade Nacional Timor Lorosa'e (UNTL) · Faculdade de Engenharia (FECT) ·
 
 Full-stack developer with strong expertise in building responsive, user-friendly web applications using HTML, CSS, Bootstrap, and the Django framework. I am committed to delivering seamless experiences across all devices, with performance, scalability, and accessibility as constant priorities.
 
-My work combines thoughtful UI/UX design, clean front-end implementation, and efficient back-end architecture, complemented by a solid foundation in graphic design and hands-on experience in IT support, networking, and training.
+My work combines thoughtful UI/UX design, clean front-end implementation, and efficient back-end architecture, complemented by hands-on experience in IT support, networking, and training.
 
 ---
 
@@ -18,7 +18,7 @@ My work combines thoughtful UI/UX design, clean front-end implementation, and ef
 | Area | Skills |
 |------|--------|
 | **Web Development** | HTML5 · CSS3 · Bootstrap 5 · Django · MySQL · JavaScript (basic) |
-| **Design & Prototyping** | Figma (wireframes, high-fidelity designs) · Canva (banners, posters, certificates, promotional graphics) |
+| **UI/UX Prototyping** | Figma (interactive wireframes, high-fidelity designs) |
 | **Programming** | Java (intermediate) |
 | **Systems & Infrastructure** | Linux and Windows installation, configuration, and management · Technical troubleshooting and research · Network equipment testing (switches and routers) |
 
@@ -29,7 +29,6 @@ My work combines thoughtful UI/UX design, clean front-end implementation, and ef
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -79,22 +78,9 @@ These experiences developed my organizational, coordination, and communication s
 
 ---
 
-## Graphic Design
-
-I have a strong foundation in graphic design principles and a passion for creating visually compelling materials. Using tools such as Canva, I produce banners, posters, certificates, and promotional graphics efficiently. My focus is on impactful designs that align with client objectives and resonate with their target audiences, combining creativity with clear communication.
-
-| Project | Event | Year |
-|---------|-------|------|
-| Celebration Banner | Amizade Celebration Party, Department of Informatic Engineering | 2024 and 2025 |
-| Certificate Design | National Seminar on Digitalization, FECT-UNTL | 2024 |
-| Certificate Design | TAJST Seminar | 2025 |
-| ID Card Design | UNTL-FECT Academic Orientation | 2025 |
-
----
-
 ## Summary
 
-This portfolio brings together graphic design, web development, and broader professional experience. With a commitment to quality, attention to detail, and a passion for blending creativity with technical solutions, I am confident in my ability to contribute effectively to any team, and I am eager to take on new challenges and deliver exceptional results.
+This portfolio brings together web development, UI/UX prototyping, IT systems, and networking experience. With a commitment to quality, attention to detail, and a passion for blending creativity with technical solutions, I am confident in my ability to contribute effectively to any team, and I am eager to take on new challenges and deliver exceptional results.
 
 ---
 
