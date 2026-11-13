@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:0d1117&height=170&section=header&text=Jessua%20Pedro%20Miguel&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Pedrix%20%C2%B7%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Jessua Pedro Miguel, Python Developer"/>
+<img src="assets/matrix-banner.gif" width="100%" alt="Jessua Pedro Miguel, Python Developer and Full-Stack Software Engineer"/>
 
 <a href="https://github.com/pedrix-48">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=4B8BBE&center=true&vCenter=true&width=640&height=40&lines=%3E%3E%3E+print(%22Hello%2C+World!%22);Python+Developer;Full-Stack+Software+Engineer;Django+%7C+MySQL+%7C+Data+Analysis" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=4B8BBE&center=true&vCenter=true&width=640&height=40&lines=Python+Developer;Full-Stack+Software+Engineer;Django+%7C+MySQL+%7C+Data+Analysis" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -14,20 +14,15 @@
 
 </div>
 
-```bash
-$ whoami
-pedrix-48
-
-$ python --version
-Python 3.x  # Django · Pandas · NumPy
-
-$ cat location.txt
-Timor-Leste
-```
-
 ---
 
 ## `>>> about_me`
+
+<div align="center">
+  <img src="assets/terminal-python.gif" width="720" alt="Terminal session printing role, languages and learning goals"/>
+</div>
+
+<br/>
 
 ```python
 from dataclasses import dataclass, field
@@ -39,6 +34,7 @@ class Developer:
     alias: str = "Pedrix"
     role: str = "Full-Stack Software Engineer"
     education: str = "Informatic Engineering, UNTL (FECT)"
+    location: str = "Timor-Leste"
     languages: list = field(default_factory=lambda: [
         "Python", "C#", "Java", "JavaScript",
     ])
@@ -48,10 +44,6 @@ class Developer:
     learning: list = field(default_factory=lambda: [
         "Advanced Django Architecture", "Data Science",
     ])
-
-
-if __name__ == "__main__":
-    print(Developer())
 ```
 
 ---
@@ -153,7 +145,5 @@ projects = [
 
 [![Email](https://img.shields.io/badge/Email-3776AB?style=for-the-badge&logo=gmail&logoColor=FFD43B)](mailto:YOUR_EMAIL_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrix-48)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3776AB&height=90&section=footer" width="100%" alt="footer"/>
 
 </div>
