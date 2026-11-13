@@ -1,34 +1,32 @@
-<!-- Animated header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Jessua%20Pedro%20Miguel&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Pedrix&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+# Jessua Pedro Miguel (Pedrix)
 
-<a href="https://github.com/pedrix-48">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Django+%7C+Web+Systems+%7C+UI%2FUX+Prototyping;IT+Support+%26+Networking;Based+in+Timor-Leste+%F0%9F%87%B9%F0%9F%87%B1" alt="Typing animation"/>
-</a>
+**Full-Stack Developer · Informatic Engineering Student · Dili, Timor-Leste**
+
+I build web systems with Django and design clean, usable interfaces.
 
 <br/>
 
-![UNTL](https://img.shields.io/badge/UNTL-FECT-7c3aed?style=for-the-badge)
-![Informatic Engineering](https://img.shields.io/badge/Informatic_Engineering-0f172a?style=for-the-badge)
-![ICT Competition](https://img.shields.io/badge/ICT_Competition-2nd_Place_2025-f59e0b?style=for-the-badge)
+[![University](https://img.shields.io/badge/UNTL-FECT-7c3aed?style=flat-square)](https://github.com/pedrix-48)
+[![Field](https://img.shields.io/badge/Informatic_Engineering-0f172a?style=flat-square)](https://github.com/pedrix-48)
+[![Award](https://img.shields.io/badge/TIC_Timor_ICT_Competition-2nd_Place_2025-f59e0b?style=flat-square)](https://github.com/pedrix-48)
 
 </div>
 
 ---
 
-## 👤 About
+## About
 
-- 🎓 Informatic Engineering, **Universidade Nacional Timor Lorosa'e (UNTL)**
-- 💻 Full-stack developer: HTML, CSS, Bootstrap, Django
-- 🎨 UI/UX prototyping with Figma
-- 🖥️ Linux and Windows setup, configuration, and troubleshooting
-- 🌐 Network equipment testing (switches and routers)
-- 📱 Responsive, scalable, accessible web apps
+I am an Informatic Engineering student at the **Universidade Nacional Timor Lorosa'e (UNTL)**, Faculty of Engineering, Science and Technology (FECT). I build full-stack web applications, prototype interfaces in Figma, and handle Linux/Windows setup and network troubleshooting.
+
+- Building responsive, scalable and accessible web applications
+- Turning ideas into Figma wireframes and high-fidelity designs
+- Currently deepening my knowledge of advanced Django architecture and data science
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -36,82 +34,67 @@
 
 </div>
 
-- **Frontend:** HTML5 · CSS3 · Bootstrap 5 · JavaScript (basic)
-- **Backend:** Django · Python · MySQL
-- **Languages:** Java (intermediate) · C#
-- **Design:** Figma
-- **Systems:** Linux · Windows
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | HTML5, CSS3, Bootstrap 5, JavaScript (basic) |
+| **Backend** | Python, Django, MySQL |
+| **Other languages** | Java (intermediate), C# |
+| **Data** | Pandas, NumPy, Jupyter |
+| **Design** | Figma, Canva |
+| **Systems** | Linux, Windows |
 
 ---
 
-## 💼 Experience
+## Featured Projects
 
-**🔹 Web Developer & UI/UX Prototyper**
-- Build and maintain websites for clients
-- Turn ideas into Figma wireframes and high-fidelity designs
-
-**🔹 Intern, FECT-UNTL (2025)**
-- Tested switches and routers
-- Verified operational status and functionality
-
-**🔹 Internship Assistant, Suai, Covalima (July 2025)**
-- Supported daily operations
-
-**🔹 Trainer**
-- Microsoft Office: Comando Policia Municipio Covalima (1 month)
-- HTML & CSS: new students, Informatic Engineering Dept., FECT-UNTL
+| Project | Description |
+| --- | --- |
+| [**SIG RUFECT**](https://github.com/pedrix-48/rufect) | Dormitory management system for FECT-UNTL. |
+| **Student Registration System** | Registration system for the Student Association of FECT. |
 
 ---
 
-## 🚀 Projects
+## Experience
+
+**Web Developer & UI/UX Prototyper**
+Build and maintain websites for clients; design Figma wireframes and high-fidelity prototypes.
+
+**Intern, FECT-UNTL** · 2025
+Tested switches and routers and verified their operational status and functionality.
+
+**Internship Assistant, Suai, Covalima** · July 2025
+Supported daily operations.
+
+**Trainer**
+- Microsoft Office for Comando Policia Municipio Covalima (1 month)
+- HTML & CSS for new students of the Informatic Engineering Department, FECT-UNTL
+
+---
+
+## Achievements and Leadership
+
+- **2nd Place**, University-Level ICT Competition, TIC Timor 8th Anniversary (2025), representing UNTL
+- **Active member, Student Association of FECT**: involved in the JICA delegation visit to FECT Hera (Aug 2024), the seminar with the Ministry of Obras Públicas (2 Aug 2024), and the TAJST seminar at FECT Hera (2025)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-[![RUFECT](https://github-readme-stats.vercel.app/api/pin/?username=pedrix-48&repo=rufect&theme=radical&hide_border=true)](https://github.com/pedrix-48/rufect)
-
-</div>
-
-- **Dormitory Management System, FECT-UNTL (SIG RUFECT)**
-- **Student Registration System, Student Association of FECT**
-
----
-
-## 🏆 Achievements
-
-- 🥈 **2nd Place**, University-Level ICT Competition by TIC Timor (8th Anniversary, 2025), representing UNTL
-
----
-
-## 🤝 Leadership
-
-**Student Association of FECT, active member**
-- JICA delegation visit to FECT Hera (Aug 2024)
-- Seminar with the Ministry of Obras Públicas (2 Aug 2024)
-- TAJST seminar at FECT Hera (2025)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrix-48&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrix-48&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrix-48&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity graph"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pedrix-48&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=6b7280&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrix-48&layout=compact&theme=transparent&title_color=7c3aed&text_color=6b7280&hide_border=true&langs_count=6" alt="Top languages"/>
 
 </div>
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/pedrix-48"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://youtube.com/@pedrix48"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
+[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrix-48)
+[![YouTube](https://img.shields.io/badge/YouTube-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pedrix48)
 
 </div>
