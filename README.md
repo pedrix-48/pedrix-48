@@ -143,7 +143,7 @@ projects = [
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-3776AB?style=for-the-badge&logo=gmail&logoColor=FFD43B&labelColor=0d1117)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-3776AB?style=for-the-badge&logo=gmail&logoColor=FFD43B&labelColor=0d1117)](mailto:jessua.belper@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pedrix-48)
 
 </div>
