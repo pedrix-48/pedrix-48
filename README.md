@@ -1,8 +1,12 @@
 <div align="center">
 
-# Jessua Pedro Miguel · `Pedrix`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:0d1117&height=170&section=header&text=Jessua%20Pedro%20Miguel&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Pedrix%20%C2%B7%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Jessua Pedro Miguel, Python Developer"/>
 
-### Python Developer · Full-Stack Software Engineer
+<a href="https://github.com/pedrix-48">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=4B8BBE&center=true&vCenter=true&width=640&height=40&lines=%3E%3E%3E+print(%22Hello%2C+World!%22);Python+Developer;Full-Stack+Software+Engineer;Django+%7C+MySQL+%7C+Data+Analysis" alt="Typing animation"/>
+</a>
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -115,8 +119,6 @@ projects = [
 ]
 ```
 
-> Edit each `stack` list so it matches exactly what the project uses.
-
 ---
 
 ## `>>> experience`
@@ -134,8 +136,12 @@ projects = [
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pedrix-48&show_icons=true&theme=transparent&title_color=3776AB&icon_color=FFD43B&text_color=6b7280&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrix-48&layout=compact&theme=transparent&title_color=3776AB&text_color=6b7280&hide_border=true&langs_count=6" alt="Top languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pedrix-48&show_icons=true&bg_color=0d1117&title_color=4B8BBE&icon_color=FFD43B&text_color=c9d1d9&border_color=30363d&count_private=true" alt="GitHub stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrix-48&layout=compact&bg_color=0d1117&title_color=4B8BBE&text_color=c9d1d9&border_color=30363d&langs_count=6" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=pedrix-48&background=0d1117&border=30363d&ring=FFD43B&fire=FFD43B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4B8BBE&sideLabels=4B8BBE&dates=8b949e" alt="GitHub streak" width="95%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrix-48&bg_color=0d1117&color=4B8BBE&line=FFD43B&point=ffffff&area=true&area_color=3776AB&hide_border=true" alt="Contribution activity graph" width="95%"/>
 
 </div>
 
@@ -147,5 +153,7 @@ projects = [
 
 [![Email](https://img.shields.io/badge/Email-3776AB?style=for-the-badge&logo=gmail&logoColor=FFD43B)](mailto:YOUR_EMAIL_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrix-48)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3776AB&height=90&section=footer" width="100%" alt="footer"/>
 
 </div>
